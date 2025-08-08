@@ -1,6 +1,6 @@
 # Keanu-Reeves-Near-You
 Yes, it works okay! Don't believe me? Change the reference image to your headshot or smth and it WILL work hahaha........
-(Also, for this project your going to need to pip install A LOTTT of libraries lol have fun with that)🤠
+(Also, for this project your going to need to pip install A LOTTT of libraries so have fun with that)🤠
 
 ## What it does
 Detects faces in real time via video input and checks to see if your Keanu Reeves   
